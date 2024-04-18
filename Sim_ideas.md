@@ -1,12 +1,22 @@
 # Simulation Project Ideas
 
-## Coin flip
+## 1. Coin flips
+
 Start with the very basics...
 
-## Fair decisions from a biased coin
+### Fair decisions from a biased coin
+
 Ignore the HH and TT outcomes, make HT = "head" and TT = "tail"
 
-## Uncertainty in Polls
+## 2. The Monte Hall Problem
 
-## Simulate a simple election
-### most basic - same 
+##  3. Simulate a simple election
+
+### most basic - pop. vote
+
+### Uncertainty in Polls and other data
+
+## 4. Sport
+
+## 5. War
+
