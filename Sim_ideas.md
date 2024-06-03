@@ -20,3 +20,5 @@ Ignore the HH and TT outcomes, make HT = "head" and TT = "tail"
 
 ## 5. War
 
+### 6. Epidemic
+
